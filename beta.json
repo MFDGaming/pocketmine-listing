@@ -1,0 +1,10 @@
+{
+    "version": "Final_1.4.1dev-936",
+    "api_version": "1.11.0",
+    "build": 936,
+    "date": 1420569848,
+    "details_url": "https://github.com/PocketMine/PocketMine-MP/releases/1.4.1dev-936",
+    "download_url": "https://github.com/PocketMine/PocketMine-MP/releases/download/1.4.1dev-936/PocketMine-MP_1.4.1dev-936.phar",
+    "alternate_download_url": "http://cdn.pocketmine.net/api/update-beta.phar",
+    "signature_url": "https://github.com/PocketMine/PocketMine-MP/releases/download/1.4.1dev-936/PocketMine-MP_1.4.1dev-936.phar.sig"
+}
