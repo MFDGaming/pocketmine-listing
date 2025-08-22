@@ -1,10 +1,9 @@
 {
-    "version": "Final_1.6.1dev-87",
-    "api_version": "2.1.0",
-    "build": 87,
-    "date": 1480069161,
-    "details_url": "https://github.com/pmmp/PocketMine-MP/releases/tag/1.6.1dev-87",
-    "download_url": "https://github.com/pmmp/PocketMine-MP/releases/download/1.6.1dev-87/PocketMine-MP_1.6.1dev-87_e51a2725_API-2.1.0.phar",
-    "alternate_download_url": "",
-    "signature_url": ""
+    "version": "Final_1.6dev-1266",
+    "api_version": "1.13.1",
+    "build": 1266,
+    "date": 1450568503,
+    "details_url": "",
+    "download_url": "https://github.com/MFDGaming/pocketmine-listing/raw/refs/heads/main/pocketmine/PocketMine-MP_1.6dev-1266_fb87165c_API-1.13.1.phar",
+    "alternate_download_url": "https://github.com/MFDGaming/pocketmine-listing/raw/refs/heads/main/pocketmine/PocketMine-MP_1.6dev-1266_fb87165c_API-1.13.1.phar"
 }
